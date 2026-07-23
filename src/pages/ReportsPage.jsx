@@ -21,7 +21,7 @@ export default function ReportsPage() {
       status: "Pending",
       timestamp: "Just now",
     };
-    setReports((rs) => [newReport, ...rs]);
+    setReports((rs) => [newReport, ...rs]); 
     toast("Complaint submitted successfully", "success");
     setModalOpen(false);
   };
