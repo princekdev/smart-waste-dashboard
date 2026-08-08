@@ -143,3 +143,10 @@ already a self-contained component taking the same `binsHook` prop shape.
 These are the right tradeoffs for a frontend-engineering showcase; swapping
 the `utils/mockData.js` generators for real API calls behind `services/` is
 the intended extension point.
+
+
+
+
+
+
+
